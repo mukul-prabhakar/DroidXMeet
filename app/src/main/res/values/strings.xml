@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DroidX Meet</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="email_hint">Email</string>
+    <string name="password">Password</string>
+    <string name="password_show_hide_eye">password show hide eye</string>
+    <string name="don_t_have_and_account">Don\'t have and account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="navigation_back_arrow">navigation_back arrow</string>
+    <string name="sign_up_header_message">We need few details to get your account ready</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="logout">Logout</string>
+    <string name="video_cam_icon">Video cam icon</string>
+    <string name="call_icon">Call icon</string>
+    <string name="meeting_type_image">Meeting type image</string>
+    <string name="incoming_meeting_invitation">Incoming Meeting Invitation</string>
+    <string name="sending_invitation_meeting">Sending Invitation Meeting</string>
+    <string name="action_button">button</string>
+    <string name="user_selected_image">user selected image</string>
+    <string name="conference_icon">conference icon</string>
+</resources>

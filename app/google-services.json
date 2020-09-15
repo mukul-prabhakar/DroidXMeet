@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286230559908",
+    "firebase_url": "https://droidx-meeting.firebaseio.com",
+    "project_id": "droidx-meeting",
+    "storage_bucket": "droidx-meeting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286230559908:android:cf611704d9d4c4073f3a31",
+        "android_client_info": {
+          "package_name": "in.codewithmike.droidmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286230559908-bmupqaldafd00lfh3mj5jnb1vlj9kkcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.codewithmike.droidmeet",
+            "certificate_hash": "76bbae968aa4b27b2e19dfacfdc85d03a69909e2"
+          }
+        },
+        {
+          "client_id": "286230559908-ul2smo9p9l29gg7f832sa3mspde5in0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzdtkTfu1CDwDR4rLvUX73I-mxa7xKbQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286230559908-ul2smo9p9l29gg7f832sa3mspde5in0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
